@@ -23,6 +23,7 @@
     "chrome-aws-lambda": "^8.0.2",
     "formidable": "^2.0.1",
     "prettier": "^2.3.2",
+    "puppeteer": "^18.2.1",
     "puppeteer-core": "^8.0.0",
     "raw-body": "^2.4.1"
   },
